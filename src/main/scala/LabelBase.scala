@@ -1,5 +1,6 @@
 package main.scala
 
 object LabelBase {
-  val INPUT = "/home/oliv/projets/lodAutomed/drugbank_dump.nt"
+  // Répertoire pour le jeu de données
+  val INPUT = "/drugbank_dump.nt"
 }
